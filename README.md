@@ -11,9 +11,9 @@ I am a Computer Science student with a passion for programming, particularly in 
 
 ## Education
 
-- **BS Information Technology**
+- **BS Computer Science**
   New Era University
-  *2022 - Present*
+  *2022 - 2023*
 
 ## Certification
 
