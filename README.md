@@ -29,4 +29,5 @@ I am a Computer Science student with a passion for programming, particularly in 
 
 ## Let's Connect
 
+- LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/jabez-villan-pastores-637ab2268/)
 - Email: [jabezpastores12@gmail.com](mailto:jabezpastores12@gmail.com)
