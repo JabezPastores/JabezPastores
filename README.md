@@ -24,8 +24,8 @@ I am a Computer Science student with a passion for programming, particularly in 
 ## Skill Sets
 
 - **Programming:** Java, JavaScript, Web Development
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Databases:** IBM DB2 Cloud, Directus, Supabase
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, CSS, Javascript, JSX
 
 ## Let's Connect
 
